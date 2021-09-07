@@ -52,3 +52,6 @@ https://thedigitalprojectmanager.com/es/alternativas-a-microsoft-project/
 https://www.atlassian.com/es/agile/project-management/gantt-chart
 
 https://www.e-manuales.com/diagrama-de-gantt/
+
+## **LINK DEL TRABAJO EN PROYECT**
+https://github.com/memokr/ingsoft_curso/blob/1fa1ab2bf2a7083c1cb48b75349538e0d72ce88d/Tarea.pod
